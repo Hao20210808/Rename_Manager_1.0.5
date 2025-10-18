@@ -30,6 +30,18 @@
 
 3. After completion, you’ll be asked whether to generate a rename.log file containing all changes.
 
+```
+AutoRenamer/  
+│  
+├─ main.py 
+├─ gui_main.py  
+├─ rename_logic.py  
+├─ language_manager.py  
+├─ config_manager.py  
+├─ config_lang.txt     ← 自動生成  
+└─ rename_log.txt      ← 執行時生成（可選）  
+```
+
 ## Notes
 
 - The program **does not rename folders** — only files inside them.
