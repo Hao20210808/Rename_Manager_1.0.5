@@ -1,4 +1,4 @@
-# Auto File Renamer
+# Auto File Renamer 重新命名檔案名稱排序_
 ## Overview
 ### a Python-based utility that automatically renames all files within a selected folder.
 
